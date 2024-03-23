@@ -1,0 +1,33 @@
+{
+  "profesores": [
+    {
+      "nombre": "Jorge",
+      "id": "c42a"
+    },
+    {
+      "apellido": "Muñoz",
+      "id": "4af3"
+    }
+  ],
+  "conocimientos": [
+    {
+      "nombre": "python",
+      "id": "869c"
+    },
+    {
+      "nombre": "node.js",
+      "id": "3ec9"
+    },
+    {
+      "id": "1ffe",
+      "nombre": "HTML"
+    },
+    {
+      "id": "9200",
+      "nombre": "HTML"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
